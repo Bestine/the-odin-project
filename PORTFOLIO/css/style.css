@@ -36,3 +36,11 @@
 }
 
 /* end navigation */
+
+/* Banner Area */
+.site-main .site-banner .site-title h3{
+    padding-top: 35%;
+    font-weight: 500;
+}
+
+/* End banner area */
