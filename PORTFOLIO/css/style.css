@@ -129,4 +129,36 @@
 .site-main .brand-area .experience-area span{
     display: block;
 }
+
+.site-main .brand-area .experience-area .years-area{
+    background:url(../img/client-info-bg.png) no-repeat 45px 20px;
+    padding: 2rem 0;
+    width: 40rem;
+    height: 18rem;
+    padding-left: 8rem;
+    position: relative;
+}
+
+.site-main .brand-area .experience-area .bg-panel{
+    position:absolute;
+    left: -190px; top: 0%;
+    background: #e029290a;
+    width: 400px;
+    height: 400px;
+    margin-left: 340px;
+    z-index:-1;
+}
+
+
+.site-main .brand-area .experience-area .years-area .years{
+    /* font: 84px/40px var(--roboto); */
+    font-size: 400%;
+    color: var(--primary-color2);
+    z-index: 2;
+}
+
+.site-main .brand-area .experience-area .whatsapp-now a{
+    font-size: 100%;
+    color: aqua;
+}
 /* End Brand Area
