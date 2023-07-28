@@ -162,3 +162,13 @@
     color: aqua;
 }
 /* End Brand Area
+
+/* Services Area */
+.services-area  .container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+/* End Services Area */
