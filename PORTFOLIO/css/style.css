@@ -188,7 +188,13 @@
     background: rgba(248, 252, 253, 0.973);
     padding: 2rem 0;
     width: 16rem;
-    margin: 5rem 5rem;
+    margin: 5rem .5rem;
     transition: box-shadow .7s ease;
+}
+
+.site-main> .services-area .services:hover{
+    box-shadow: var(--box-shadow);
+    transform: scale(1.1);
+    background: #201f1f17;
 }
 /* End Services Area */
