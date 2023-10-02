@@ -198,3 +198,16 @@
     background: #201f1f17;
 }
 /* End Services Area */
+
+/* Project Area */
+.site-main .project-area{
+    padding: 4rem 0;
+}
+
+.site-main.project-area .button-group button{
+    background: transparent;
+    border: none;
+    font: normal 500 16px/130px var(--roboto);
+    text-transform: uppercase;
+}
+/*End Project Area */
